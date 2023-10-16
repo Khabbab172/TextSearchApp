@@ -27,6 +27,6 @@ The application utilizes multithreading to enhance search speed. Each directory 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/multithreaded-text-search.git
+      git clone https://github.com/Khabbab172/TextSearchApp.git
    
 2. run MainApp.py  
